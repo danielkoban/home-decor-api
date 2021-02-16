@@ -1,0 +1,49 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "The Moon over Manhattan",
+            "url": "danielkoban.com/home-decor-assets/img-1.webp"
+        },
+        {
+            "id": 2,
+            "title": "Manhattan Bridge",
+            "url": "danielkoban.com/home-decor-assets/img-2.webp"
+        },
+        {
+            "id": 3,
+            "title": "The Skyscrapers",
+            "url": "danielkoban.com/home-decor-assets/img-3.webp"
+        },
+        {
+            "id": 4,
+            "title": "The Empire State Building",
+            "url": "danielkoban.com/home-decor-assets/img-4.webp"
+        },
+        {
+            "id": 5,
+            "title": "Brooklyn Bridge",
+            "url": "danielkoban.com/home-decor-assets/img-5.webp"
+        },
+        {
+            "id": 6,
+            "title": "Flatiron Building",
+            "url": "danielkoban.com/home-decor-assets/img-6.webp"
+        },
+        {
+            "id": 7,
+            "title": "New York Bay",
+            "url": "danielkoban.com/home-decor-assets/img-7.webp"
+        },
+        {
+            "id": 8,
+            "title": "Manhattan Skyline",
+            "url": "danielkoban.com/home-decor-assets/img-8.webp"
+        },
+        {
+            "id": 9,
+            "title": "The Statue of Liberty",
+            "url": "danielkoban.com/home-decor-assets/img-9.webp"
+        }
+    ]
+}
